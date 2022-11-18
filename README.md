@@ -1,5 +1,5 @@
 # LGen
-An apartments.com webscraper made for a sales company that doesn't exist anymore.
+An apartments.com webscraper that uses BeautifulSoup4 and PySimpleGUI. 
 
 Input the city and select the state from the dropdown, and it will attempt to return the number of results you've specified. 
 By default it uses proxies from proxyscrape.com, however you can choose to use without proxies if you want.
